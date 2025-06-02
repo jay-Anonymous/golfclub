@@ -29,7 +29,7 @@
     "devextreme-angular": "^20.1.3",
     "devextreme-cli": "^1.2.1",
     "express": "^4.15.2",
-    "rxjs": "~6.5.4",
+    "rxjs": "~6.6.7",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
